@@ -9,7 +9,7 @@ import io
 # CONFIGURAÇÃO — edite aqui
 # ════════════════════════════════════════════════════════════════════
 
-TOKEN = "MTQ3MjA4MTA2MTY2NDU3MTQzMg.GWe0S0.Vg2ic-FqZaoT4XLvnnL7hvaQ2LMye7cDWuCy9o"
+TOKEN = "MTQ3Njc0MTA2MTY2NDU3MTQzMg.GWe0S0.Vg2ic-FqZaoT4XLVnnL7hvaQ2LMye7cDWuCy9o"
 STAFF_ROLE_ID = 1471367686448615567
 LOG_CHANNEL_ID = 1476743771319439484        # ID do canal de logs — troque pelo seu
 TICKET_CATEGORY_ID = 1476663702219653404    # ID da categoria onde os tickets serão criados — troque pelo seu
